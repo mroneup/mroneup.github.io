@@ -26,9 +26,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[![instagram](images/insta.png width="100" height="100")](https://www.instagram.com/artparq/)
-
-
 
 
